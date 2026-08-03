@@ -1,7 +1,7 @@
 # X-39
 Profiles and Macros for the X-39 Gaming Mouse (E-Yoozo)
 
-# E-YOOSO X-39 Macro Pack
+# E-YOOSO X-39 Shortcuts & Macros
 
 A collection of profiles, macros and tools for the **E-YOOSO X-39 Gaming Mouse**.
 
@@ -9,7 +9,7 @@ The goal of this project is to build high-quality productivity profiles for crea
 
 Current focus:
 
-* FL Studio
+* FL Studio (ver 1 done)
 * Blender
 * Photoshop
 * Illustrator
