@@ -1,4 +1,11 @@
+
+![FL Studio Cheat Sheet](./X-39_Cheat_Sheet_-_FL_Studio_v1.png)
+
+
 # FL Studio v1 Profile
+
+
+
 
 ```
                E-YOOSO X-39
