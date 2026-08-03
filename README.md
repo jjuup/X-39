@@ -52,25 +52,11 @@ x39-macro-pack/
 │
 └── examples/
 ```
+## Cheat Sheets:
 
----
-
-## FL Studio Profile v1
-
-| Button | Function                   |
-| -----: | -------------------------- |
-|      1 | Mixer (F9)                 |
-|      2 | Playlist (F5)              |
-|      3 | Piano Roll (F7)            |
-|      4 | Channel Rack (F6)          |
-|      5 | Save (Ctrl+S)              |
-|      6 | Plugin Database (Shift+F8) |
-|      7 | Undo (Ctrl+Z)              |
-|      8 | Redo (Ctrl+Shift+Z)        |
-|      9 | Play / Stop (Space)        |
-|     10 | Close All Windows (F12)    |
-|     11 | Browser (Alt+F8)           |
-|     12 | Plugin Picker (F8)         |
+<img src="profiles/FL Studio/X-39_Cheat_Sheet_-_FL_Studio_v1.png"
+     alt="FL Studio Cheat Sheet"
+     width="400">
 
 ---
 
